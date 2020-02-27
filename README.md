@@ -1,16 +1,7 @@
 # CaixaEletronico
 API GraphQL 
 
-Rodar EF Migration no Projeto CaixaEletronico.Conta.Data: 
-
-```
-dotnet ef database update
-```
-<br>
-BANCO: SQLSERVER<br>
-<br>
-Teste:<br>
-Conta: 54321
+Rodar script SQL em: \scripts\database.sql
 
 # Exame de Programador C\#
 
