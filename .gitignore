@@ -1,0 +1,17 @@
+
+CaixaEletronico/bin/
+CaixaEletronico/obj/
+Domain/bin
+Domain/obj/
+Entities/bin
+Entities/obj/
+Repositories/bin
+Repositories/obj/
+scripts/bin
+scripts/obj/
+Services/bin
+Services/obj/
+Tests/bin
+Tests/obj/
+ViewModels/bin
+ViewModels/obj/
